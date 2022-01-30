@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clone</string>
+    <string name="about">Info</string>
+    <string name="contact_permission_denied_message">Necesitamos acceder a tus contactos para ver cuáles de ellos utilizan Clone.</string>
+    <string name="delete_media_item_title">¿Eliminar ítem?</string>
+    <string name="edit">Editar</string>
+    <string name="enter_code">Introducir código de 6 dígitos</string>
+    <string name="enter_valid_name">Introduce un número válido</string>
+    <string name="gallery">Galería</string>
+    <string name="image_message">Imagen 📷</string>
+    <string name="image_uploaded">¡Imagen subida!</string>
+    <string name="invalid_phone_number">Número de teléfono inválido</string>
+    <string name="log_out">Cerrar sesión</string>
+    <string name="name">Nombre</string>
+    <string name="name_input_hint">Introduce tu nombre aquí</string>
+    <string name="next">Siguiente</string>
+    <string name="no_network">No hay red disponible</string>
+    <string name="phone_number">Número de teléfono</string>
+    <string name="refresh_contacts">Actualizar contactos</string>
+    <string name="select_contact">Seleccionar contacto</string>
+    <string name="send_to">Enviar a %s</string>
+    <string name="settings">Ajustes</string>
+    <string name="type_a_message">Escribe un mensaje</string>
+    <string name="uploading_pic">Subiendo…</string>
+    <string name="verification_dialog_message">Se va a verificar el siguiente número:\n\n%s\n\n¿Es este el número correcto o prefieres editarlo?</string>
+    <string name="verify_code">Verificar código</string>
+    <string name="view_profile">Ver perfil</string>
+    <string name="yesterday">Ayer</string>
+    <string name="you">Tú</string>
+    <plurals name="numberOfContacts">
+        <item quantity="one">%d contacto</item>
+        <item quantity="other">%d contactos</item>
+    </plurals>
+    <string-array name="attach_actions">
+        <item>Abrir galería</item>
+        <item>Open camera</item>
+    </string-array>
+    <string-array name="pfp_options">
+        <item>Abrir galería</item>
+        <item>Abrir cámara</item>
+        <item>Eliminar foto</item>
+    </string-array>
+</resources>

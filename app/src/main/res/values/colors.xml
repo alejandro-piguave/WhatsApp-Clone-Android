@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="colorOutgoingMessage">#d4ea9e</color>
+    <color name="colorIncomingMessage">#eaebec</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorDoubleCheck">#729220</color>
+    <color name="colorGrey">#bfbfbf</color>
+
+    <color name="colorChatBackground">#ECE5DD</color>
+
+</resources>
